@@ -1,0 +1,6 @@
+problem,direction,km_impact,pct_of_true,worst_driver_day_km,note
+P1 GPS noise counted as distance,over-pays (advertiser loses),65.564,36.1,8.469,"129 noise pings, all counted"
+P2 day cut at 00:00 UTC not 00:00 UTC+9,"km moved between days, net 0",19.146,10.5,6.912,12 driver-day rows wrong
+P3 boundary segments counted on start ping only,"over-counts exits, misses entries",8.246,4.5,,"exit legs counted 8.246 km, entry legs missed 7.611 km"
+(checked) duplicate pings,none today,0.0,0.0,,"76 duplicates, v0 de-duplicates"
+(checked) late / out-of-order pings,none today,0.0,0.0,,"88 late pings, v0 sorts by timestamp"

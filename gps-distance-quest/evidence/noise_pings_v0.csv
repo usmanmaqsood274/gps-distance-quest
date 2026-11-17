@@ -1,0 +1,130 @@
+ping_id,driver_id,ts_utc,local_time,lat,lon,off_road_m,implied_kmh,noise_reason,billed_segments_m,why,synthetic_fault
+P00031,D01,2026-11-01 23:40:10+00:00,2026-11-02 08:40:10,34.0089831,128.536374,0.0,364.0,speed,1053.8,implies 364 km/h from the last good ping (limit 150),noise_speed
+P00064,D01,2026-11-01 23:45:20+00:00,2026-11-02 08:45:20,34.0053768,128.5035017,323.2,189.8,off_road+speed,0.0,323 m from the road (limit 100 m); implies 190 km/h from the last good ping (limit 150),noise_offroad
+P00120,D01,2026-11-01 23:49:50+00:00,2026-11-02 08:49:50,34.0049477,128.5108356,0.0,204.5,speed,1346.4,implies 204 km/h from the last good ping (limit 150),noise_speed
+P00160,D01,2026-11-01 23:53:20+00:00,2026-11-02 08:53:20,34.0220522,128.5081951,243.7,182.7,off_road+speed,955.8,244 m from the road (limit 100 m); implies 183 km/h from the last good ping (limit 150),noise_offroad
+P00244,D01,2026-11-02 00:00:10+00:00,2026-11-02 09:00:10,34.0089831,128.5131029,0.0,285.6,speed,1578.7,implies 286 km/h from the last good ping (limit 150),noise_speed
+P00354,D01,2026-11-02 00:09:10+00:00,2026-11-02 09:09:10,34.0131028,128.5276059,452.3,163.5,off_road+speed,982.9,452 m from the road (limit 100 m); implies 164 km/h from the last good ping (limit 150),noise_offroad
+P00360,D01,2026-11-02 00:09:30+00:00,2026-11-02 09:09:30,34.0069389,128.5179179,227.6,239.1,off_road+speed,1073.6,228 m from the road (limit 100 m); implies 239 km/h from the last good ping (limit 150),noise_offroad
+P00399,D01,2026-11-02 00:13:00+00:00,2026-11-02 09:13:00,34.0041311,128.5344993,183.9,82.8,off_road,0.0,184 m from the road (limit 100 m),noise_offroad
+P00413,D01,2026-11-02 00:14:10+00:00,2026-11-02 09:14:10,34.012076,128.5305597,179.7,124.0,off_road,738.4,180 m from the road (limit 100 m),noise_offroad
+P01531,D01,2026-11-02 23:45:10+00:00,2026-11-03 08:45:10,34.0258898,128.5162456,117.9,182.0,off_road+speed,0.0,118 m from the road (limit 100 m); implies 182 km/h from the last good ping (limit 150),noise_offroad
+P01630,D01,2026-11-02 23:53:20+00:00,2026-11-03 08:53:20,34.0185265,128.5325068,0.0,335.7,speed,693.7,implies 336 km/h from the last good ping (limit 150),noise_speed
+P01636,D01,2026-11-02 23:53:50+00:00,2026-11-03 08:53:50,34.0225386,128.5374423,455.5,170.5,off_road+speed,0.0,455 m from the road (limit 100 m); implies 171 km/h from the last good ping (limit 150),noise_offroad
+P01667,D01,2026-11-02 23:56:20+00:00,2026-11-03 08:56:20,34.0141822,128.5249673,304.2,113.4,off_road,632.5,304 m from the road (limit 100 m),noise_offroad
+P01714,D01,2026-11-03 00:00:00+00:00,2026-11-03 09:00:00,34.0136228,128.5293412,292.1,213.9,off_road+speed,1189.3,292 m from the road (limit 100 m); implies 214 km/h from the last good ping (limit 150),noise_offroad
+P01865,D01,2026-11-03 00:12:30+00:00,2026-11-03 09:12:30,34.0044764,128.50121,111.7,182.4,off_road+speed,0.0,112 m from the road (limit 100 m); implies 182 km/h from the last good ping (limit 150),noise_offroad
+P01922,D01,2026-11-03 00:17:20+00:00,2026-11-03 09:17:20,34.0089831,128.5082084,0.0,425.8,speed,1018.8,implies 426 km/h from the last good ping (limit 150),noise_speed
+P01954,D01,2026-11-03 00:20:00+00:00,2026-11-03 09:20:00,34.0140872,128.4960978,360.1,204.6,off_road+speed,0.0,360 m from the road (limit 100 m); implies 205 km/h from the last good ping (limit 150),noise_offroad
+P01963,D01,2026-11-03 00:20:40+00:00,2026-11-03 09:20:40,34.0193473,128.504435,153.7,154.8,off_road+speed,0.0,154 m from the road (limit 100 m); implies 155 km/h from the last good ping (limit 150),noise_offroad
+P03000,D01,2026-11-03 23:45:00+00:00,2026-11-04 08:45:00,34.0179662,128.5357051,0.0,400.8,speed,1019.6,implies 401 km/h from the last good ping (limit 150),noise_speed
+P03068,D01,2026-11-03 23:50:30+00:00,2026-11-04 08:50:30,34.0160611,128.5161015,212.1,190.9,off_road+speed,913.5,212 m from the road (limit 100 m); implies 191 km/h from the last good ping (limit 150),noise_offroad
+P03103,D01,2026-11-03 23:53:30+00:00,2026-11-04 08:53:30,34.0293062,128.5136113,262.4,196.6,off_road+speed,0.0,262 m from the road (limit 100 m); implies 197 km/h from the last good ping (limit 150),noise_offroad
+P03264,D01,2026-11-04 00:06:30+00:00,2026-11-04 09:06:30,34.0179662,128.515459,0.0,249.9,speed,1506.0,implies 250 km/h from the last good ping (limit 150),noise_speed
+P03353,D01,2026-11-04 00:13:50+00:00,2026-11-04 09:13:50,34.0078265,128.5216712,0.0,316.2,speed,807.9,implies 316 km/h from the last good ping (limit 150),noise_speed
+P03382,D01,2026-11-04 00:16:20+00:00,2026-11-04 09:16:20,34.0158568,128.5235738,175.6,215.5,off_road+speed,947.6,176 m from the road (limit 100 m); implies 215 km/h from the last good ping (limit 150),noise_offroad
+P03387,D01,2026-11-04 00:16:40+00:00,2026-11-04 09:16:40,34.0179662,128.5109103,0.0,406.2,speed,2144.2,implies 406 km/h from the last good ping (limit 150),noise_speed
+P03398,D01,2026-11-04 00:17:40+00:00,2026-11-04 09:17:40,34.022347,128.5325068,0.0,401.8,speed,1116.0,implies 402 km/h from the last good ping (limit 150),noise_speed
+P03481,D01,2026-11-04 00:24:30+00:00,2026-11-04 09:24:30,34.0029171,128.5025954,239.5,119.2,off_road,0.0,240 m from the road (limit 100 m),noise_offroad
+P01254,D02,2026-11-02 14:45:00+00:00,2026-11-02 23:45:00,34.0100808,128.5,0.0,410.3,speed,0.0,implies 410 km/h from the last good ping (limit 150),noise_speed
+P01266,D02,2026-11-02 14:47:00+00:00,2026-11-02 23:47:00,34.0250127,128.5017685,163.2,77.3,off_road,0.0,163 m from the road (limit 100 m),noise_offroad
+P01302,D02,2026-11-02 14:53:20+00:00,2026-11-02 23:53:20,34.0133246,128.5241558,229.3,228.4,off_road+speed,1171.0,229 m from the road (limit 100 m); implies 228 km/h from the last good ping (limit 150),noise_offroad
+P01369,D02,2026-11-02 15:04:30+00:00,2026-11-03 00:04:30,34.0129451,128.528966,326.8,231.9,off_road+speed,1173.4,327 m from the road (limit 100 m); implies 232 km/h from the last good ping (limit 150),noise_offroad
+P01395,D02,2026-11-02 15:08:30+00:00,2026-11-03 00:08:30,34.0119165,128.5204345,114.1,126.2,off_road,668.3,114 m from the road (limit 100 m),noise_offroad
+P01413,D02,2026-11-02 15:11:30+00:00,2026-11-03 00:11:30,34.0179662,128.5214283,0.0,218.7,speed,1432.3,implies 219 km/h from the last good ping (limit 150),noise_speed
+P01418,D02,2026-11-02 15:12:10+00:00,2026-11-03 00:12:10,34.0236146,128.5188856,257.1,169.2,off_road+speed,591.4,257 m from the road (limit 100 m); implies 169 km/h from the last good ping (limit 150),noise_offroad
+P01428,D02,2026-11-02 15:13:50+00:00,2026-11-03 00:13:50,34.0269493,128.5397498,0.0,258.3,speed,0.0,implies 258 km/h from the last good ping (limit 150),noise_speed
+P02688,D02,2026-11-03 14:39:20+00:00,2026-11-03 23:39:20,34.0056467,128.5108356,0.0,366.7,speed,2132.7,implies 367 km/h from the last good ping (limit 150),noise_speed
+P02703,D02,2026-11-03 14:41:40+00:00,2026-11-03 23:41:40,34.0269493,128.517648,0.0,357.8,speed,993.9,implies 358 km/h from the last good ping (limit 150),noise_speed
+P02713,D02,2026-11-03 14:43:20+00:00,2026-11-03 23:43:20,34.0119634,128.5216712,0.0,428.4,speed,2299.8,implies 428 km/h from the last good ping (limit 150),noise_speed
+P02722,D02,2026-11-03 14:44:50+00:00,2026-11-03 23:44:50,34.0071128,128.5074662,208.2,189.1,off_road+speed,930.8,208 m from the road (limit 100 m); implies 189 km/h from the last good ping (limit 150),noise_offroad
+P02738,D02,2026-11-03 14:47:40+00:00,2026-11-03 23:47:40,34.0116907,128.4980397,180.9,85.2,off_road,0.0,181 m from the road (limit 100 m),noise_offroad
+P02848,D02,2026-11-03 15:05:20+00:00,2026-11-04 00:05:20,33.9971573,128.547497,497.1,197.6,off_road+speed,0.0,497 m from the road (limit 100 m); implies 198 km/h from the last good ping (limit 150),noise_offroad
+P02865,D02,2026-11-03 15:08:10+00:00,2026-11-04 00:08:10,34.005603,128.5216712,0.0,303.4,speed,689.2,implies 303 km/h from the last good ping (limit 150),noise_speed
+P02879,D02,2026-11-03 15:10:20+00:00,2026-11-04 00:10:20,34.0116792,128.5108356,0.0,408.6,speed,2195.1,implies 409 km/h from the last good ping (limit 150),noise_speed
+P04166,D02,2026-11-04 14:40:10+00:00,2026-11-04 23:40:10,34.0107274,128.5108356,0.0,416.0,speed,1063.5,implies 416 km/h from the last good ping (limit 150),noise_speed
+P04233,D02,2026-11-04 14:51:20+00:00,2026-11-04 23:51:20,34.0212702,128.5372426,367.8,135.1,off_road,0.0,368 m from the road (limit 100 m),noise_offroad
+P04240,D02,2026-11-04 14:52:30+00:00,2026-11-04 23:52:30,34.01535,128.5363044,291.2,129.9,off_road,850.7,291 m from the road (limit 100 m),noise_offroad
+P04258,D02,2026-11-04 14:55:20+00:00,2026-11-04 23:55:20,34.001254,128.5462241,266.0,160.5,off_road+speed,0.0,266 m from the road (limit 100 m); implies 161 km/h from the last good ping (limit 150),noise_offroad
+P04316,D02,2026-11-04 15:04:50+00:00,2026-11-05 00:04:50,34.0162229,128.5483268,460.0,203.8,off_road+speed,0.0,460 m from the road (limit 100 m); implies 204 km/h from the last good ping (limit 150),noise_offroad
+P04320,D02,2026-11-04 15:05:30+00:00,2026-11-05 00:05:30,34.0194781,128.5399259,168.3,147.3,off_road,0.0,168 m from the road (limit 100 m),noise_offroad
+P04337,D02,2026-11-04 15:08:10+00:00,2026-11-05 00:08:10,34.0201253,128.5296099,240.3,128.4,off_road,623.6,240 m from the road (limit 100 m),noise_offroad
+P04380,D02,2026-11-04 15:15:10+00:00,2026-11-05 00:15:10,34.029363,128.5283617,268.7,234.1,off_road+speed,0.0,269 m from the road (limit 100 m); implies 234 km/h from the last good ping (limit 150),noise_offroad
+P00601,D03,2026-11-02 04:18:40+00:00,2026-11-02 13:18:40,34.014802,128.5133019,227.6,151.7,off_road+speed,844.5,228 m from the road (limit 100 m); implies 152 km/h from the last good ping (limit 150),noise_offroad
+P00654,D03,2026-11-02 04:27:30+00:00,2026-11-02 13:27:30,34.0222586,128.5433424,0.0,269.8,speed,0.0,implies 270 km/h from the last good ping (limit 150),noise_speed
+P00675,D03,2026-11-02 04:30:50+00:00,2026-11-02 13:30:50,34.0264268,128.5433424,0.0,363.3,speed,0.0,implies 363 km/h from the last good ping (limit 150),noise_speed
+P00692,D03,2026-11-02 04:33:30+00:00,2026-11-02 13:33:30,34.0219651,128.5359433,317.2,201.4,off_road+speed,0.0,317 m from the road (limit 100 m); implies 201 km/h from the last good ping (limit 150),noise_offroad
+P00724,D03,2026-11-02 04:38:50+00:00,2026-11-02 13:38:50,34.0179662,128.5380437,0.0,369.5,speed,1026.3,implies 369 km/h from the last good ping (limit 150),noise_speed
+P00727,D03,2026-11-02 04:39:20+00:00,2026-11-02 13:39:20,34.0071644,128.5418628,136.5,139.7,off_road,0.0,137 m from the road (limit 100 m),noise_offroad
+P00776,D03,2026-11-02 04:47:30+00:00,2026-11-02 13:47:30,34.0104336,128.5108356,0.0,384.1,speed,2285.6,implies 384 km/h from the last good ping (limit 150),noise_speed
+P00808,D03,2026-11-02 04:53:10+00:00,2026-11-02 13:53:10,34.0048811,128.5460282,247.9,118.4,off_road,0.0,248 m from the road (limit 100 m),noise_offroad
+P00839,D03,2026-11-02 04:58:10+00:00,2026-11-02 13:58:10,34.0291342,128.5423417,243.2,118.8,off_road,0.0,243 m from the road (limit 100 m),noise_offroad
+P00873,D03,2026-11-02 05:03:40+00:00,2026-11-02 14:03:40,34.0179662,128.5298624,0.0,395.9,speed,2308.7,implies 396 km/h from the last good ping (limit 150),noise_speed
+P02039,D03,2026-11-03 04:13:10+00:00,2026-11-03 13:13:10,34.0006217,128.5108356,0.0,421.1,speed,0.0,implies 421 km/h from the last good ping (limit 150),noise_speed
+P02057,D03,2026-11-03 04:16:10+00:00,2026-11-03 13:16:10,34.0103266,128.5302684,149.6,76.3,off_road,501.8,150 m from the road (limit 100 m),noise_offroad
+P02158,D03,2026-11-03 04:32:10+00:00,2026-11-03 13:32:10,34.019588,128.5268341,180.5,108.5,off_road,505.1,181 m from the road (limit 100 m),noise_offroad
+P02169,D03,2026-11-03 04:34:00+00:00,2026-11-03 13:34:00,34.0205851,128.5234658,165.6,122.8,off_road,679.7,166 m from the road (limit 100 m),noise_offroad
+P02214,D03,2026-11-03 04:41:30+00:00,2026-11-03 13:41:30,33.9977287,128.4991241,265.4,104.0,off_road,0.0,265 m from the road (limit 100 m),noise_offroad
+P02216,D03,2026-11-03 04:41:50+00:00,2026-11-03 13:41:50,34.0022437,128.4964907,323.9,115.4,off_road,0.0,324 m from the road (limit 100 m),noise_offroad
+P02262,D03,2026-11-03 04:49:30+00:00,2026-11-03 13:49:30,34.0073574,128.5200817,146.7,67.5,off_road,425.0,147 m from the road (limit 100 m),noise_offroad
+P02284,D03,2026-11-03 04:53:10+00:00,2026-11-03 13:53:10,34.0160214,128.5,0.0,307.6,speed,0.0,implies 308 km/h from the last good ping (limit 150),noise_speed
+P02289,D03,2026-11-03 04:54:00+00:00,2026-11-03 13:54:00,34.0119829,128.5038491,333.9,173.9,off_road+speed,0.0,334 m from the road (limit 100 m); implies 174 km/h from the last good ping (limit 150),noise_offroad
+P02340,D03,2026-11-03 05:02:40+00:00,2026-11-03 14:02:40,34.0070186,128.527102,218.7,102.0,off_road,509.7,219 m from the road (limit 100 m),noise_offroad
+P03500,D03,2026-11-04 04:11:30+00:00,2026-11-04 13:11:30,34.0113173,128.5301024,221.9,104.5,off_road,506.4,222 m from the road (limit 100 m),noise_offroad
+P03527,D03,2026-11-04 04:16:00+00:00,2026-11-04 13:16:00,34.0236075,128.5232563,146.3,116.5,off_road,501.1,146 m from the road (limit 100 m),noise_offroad
+P03531,D03,2026-11-04 04:16:40+00:00,2026-11-04 13:16:40,34.0232336,128.5182172,318.8,124.2,off_road,482.4,319 m from the road (limit 100 m),noise_offroad
+P03571,D03,2026-11-04 04:23:10+00:00,2026-11-04 13:23:10,34.0269493,128.5073921,0.0,412.4,speed,0.0,implies 412 km/h from the last good ping (limit 150),noise_speed
+P03602,D03,2026-11-04 04:28:10+00:00,2026-11-04 13:28:10,34.0,128.5049884,0.0,242.0,speed,0.0,implies 242 km/h from the last good ping (limit 150),noise_speed
+P03699,D03,2026-11-04 04:44:00+00:00,2026-11-04 13:44:00,34.0221224,128.5347043,202.8,104.1,off_road,0.0,203 m from the road (limit 100 m),noise_offroad
+P03711,D03,2026-11-04 04:46:00+00:00,2026-11-04 13:46:00,34.0234528,128.5476463,397.2,195.7,off_road+speed,0.0,397 m from the road (limit 100 m); implies 196 km/h from the last good ping (limit 150),noise_offroad
+P03717,D03,2026-11-04 04:47:00+00:00,2026-11-04 13:47:00,34.0240961,128.5461176,256.1,119.0,off_road,0.0,256 m from the road (limit 100 m),noise_offroad
+P03727,D03,2026-11-04 04:48:40+00:00,2026-11-04 13:48:40,34.0122464,128.5402318,287.1,144.9,off_road,0.0,287 m from the road (limit 100 m),noise_offroad
+P03782,D03,2026-11-04 04:57:40+00:00,2026-11-04 13:57:40,34.0089831,128.5206595,0.0,207.0,speed,1411.8,implies 207 km/h from the last good ping (limit 150),noise_speed
+P00201,D04,2026-11-01 23:56:30+00:00,2026-11-02 08:56:30,34.0124452,128.503401,313.9,115.8,off_road,0.0,314 m from the road (limit 100 m),noise_offroad
+P00215,D04,2026-11-01 23:57:50+00:00,2026-11-02 08:57:50,34.0096688,128.5108356,0.0,378.3,speed,966.4,implies 378 km/h from the last good ping (limit 150),noise_speed
+P00253,D04,2026-11-02 00:00:50+00:00,2026-11-02 09:00:50,34.0246755,128.4981843,167.6,218.1,off_road+speed,0.0,168 m from the road (limit 100 m); implies 218 km/h from the last good ping (limit 150),noise_offroad
+P00306,D04,2026-11-02 00:05:10+00:00,2026-11-02 09:05:10,34.022027,128.5072835,327.8,219.9,off_road+speed,480.4,328 m from the road (limit 100 m); implies 220 km/h from the last good ping (limit 150),noise_offroad
+P00315,D04,2026-11-02 00:06:00+00:00,2026-11-02 09:06:00,34.0204424,128.5095866,115.3,98.9,off_road,631.5,115 m from the road (limit 100 m),noise_offroad
+P00328,D04,2026-11-02 00:07:00+00:00,2026-11-02 09:07:00,34.0206554,128.5248596,294.3,237.1,off_road+speed,1079.1,294 m from the road (limit 100 m); implies 237 km/h from the last good ping (limit 150),noise_offroad
+P00459,D04,2026-11-02 00:17:50+00:00,2026-11-02 09:17:50,34.0094231,128.5433424,0.0,358.6,speed,996.2,implies 359 km/h from the last good ping (limit 150),noise_speed
+P01611,D04,2026-11-02 23:51:40+00:00,2026-11-03 08:51:40,34.0098579,128.5,0.0,374.4,speed,1040.0,implies 374 km/h from the last good ping (limit 150),noise_speed
+P01645,D04,2026-11-02 23:54:30+00:00,2026-11-03 08:54:30,34.0165047,128.5,0.0,300.6,speed,0.0,implies 301 km/h from the last good ping (limit 150),noise_speed
+P01734,D04,2026-11-03 00:01:50+00:00,2026-11-03 09:01:50,34.0104011,128.5231617,137.6,78.9,off_road,425.0,138 m from the road (limit 100 m),noise_offroad
+P01809,D04,2026-11-03 00:08:00+00:00,2026-11-03 09:08:00,34.0253043,128.5203823,118.9,110.9,off_road,0.0,119 m from the road (limit 100 m),noise_offroad
+P01817,D04,2026-11-03 00:08:40+00:00,2026-11-03 09:08:40,34.0248098,128.5152137,238.2,86.3,off_road,0.0,238 m from the road (limit 100 m),noise_offroad
+P01864,D04,2026-11-03 00:12:20+00:00,2026-11-03 09:12:20,34.0219571,128.5075569,302.6,183.0,off_road+speed,964.2,303 m from the road (limit 100 m); implies 183 km/h from the last good ping (limit 150),noise_offroad
+P01986,D04,2026-11-03 00:22:30+00:00,2026-11-03 09:22:30,33.9971827,128.5328094,313.6,203.8,off_road+speed,0.0,314 m from the road (limit 100 m); implies 204 km/h from the last good ping (limit 150),noise_offroad
+P03087,D04,2026-11-03 23:52:10+00:00,2026-11-04 08:52:10,34.0077808,128.5407509,133.8,99.2,off_road,0.0,134 m from the road (limit 100 m),noise_offroad
+P03201,D04,2026-11-04 00:01:20+00:00,2026-11-04 09:01:20,34.020098,128.5256322,237.3,95.9,off_road,520.0,237 m from the road (limit 100 m),noise_offroad
+P03211,D04,2026-11-04 00:02:10+00:00,2026-11-04 09:02:10,34.0133703,128.5216712,0.0,183.5,speed,1012.7,implies 184 km/h from the last good ping (limit 150),noise_speed
+P03310,D04,2026-11-04 00:10:20+00:00,2026-11-04 09:10:20,34.0168706,128.5231666,122.0,240.3,off_road+speed,1087.2,122 m from the road (limit 100 m); implies 240 km/h from the last good ping (limit 150),noise_offroad
+P03333,D04,2026-11-04 00:12:20+00:00,2026-11-04 09:12:20,34.0235161,128.5240292,217.6,88.5,off_road,475.7,218 m from the road (limit 100 m),noise_offroad
+P03355,D04,2026-11-04 00:14:00+00:00,2026-11-04 09:14:00,34.0312026,128.5211799,473.5,171.4,off_road+speed,0.0,473 m from the road (limit 100 m); implies 171 km/h from the last good ping (limit 150),noise_offroad
+P03363,D04,2026-11-04 00:14:40+00:00,2026-11-04 09:14:40,34.0179662,128.5260416,0.0,360.4,speed,1002.5,implies 360 km/h from the last good ping (limit 150),noise_speed
+P00910,D05,2026-11-02 09:24:20+00:00,2026-11-02 18:24:20,34.0209155,128.5216712,0.0,297.6,speed,953.5,implies 298 km/h from the last good ping (limit 150),noise_speed
+P00928,D05,2026-11-02 09:27:40+00:00,2026-11-02 18:27:40,34.0199031,128.5014324,132.2,47.6,off_road,0.0,132 m from the road (limit 100 m),noise_offroad
+P00950,D05,2026-11-02 09:31:00+00:00,2026-11-02 18:31:00,34.0239101,128.5154085,338.3,188.4,off_road+speed,949.6,338 m from the road (limit 100 m); implies 188 km/h from the last good ping (limit 150),noise_offroad
+P01094,D05,2026-11-02 09:54:10+00:00,2026-11-02 18:54:10,34.0066166,128.5393375,263.4,249.1,off_road+speed,0.0,263 m from the road (limit 100 m); implies 249 km/h from the last good ping (limit 150),noise_offroad
+P01100,D05,2026-11-02 09:55:10+00:00,2026-11-02 18:55:10,34.0026889,128.5376419,299.3,206.8,off_road+speed,0.0,299 m from the road (limit 100 m); implies 207 km/h from the last good ping (limit 150),noise_offroad
+P01111,D05,2026-11-02 09:57:00+00:00,2026-11-02 18:57:00,34.0040766,128.5382739,453.8,169.7,off_road+speed,0.0,454 m from the road (limit 100 m); implies 170 km/h from the last good ping (limit 150),noise_offroad
+P01123,D05,2026-11-02 09:59:00+00:00,2026-11-02 18:59:00,34.0026654,128.5244528,256.7,142.8,off_road,0.0,257 m from the road (limit 100 m),noise_offroad
+P01131,D05,2026-11-02 10:00:20+00:00,2026-11-02 19:00:20,34.0050017,128.525334,338.0,148.5,off_road,340.4,338 m from the road (limit 100 m),noise_offroad
+P01174,D05,2026-11-02 10:07:20+00:00,2026-11-02 19:07:20,34.0219663,128.5216712,0.0,412.7,speed,1146.8,implies 413 km/h from the last good ping (limit 150),noise_speed
+P02390,D05,2026-11-03 09:25:40+00:00,2026-11-03 18:25:40,34.0098046,128.5325068,0.0,399.8,speed,1088.4,implies 400 km/h from the last good ping (limit 150),noise_speed
+P02398,D05,2026-11-03 09:27:00+00:00,2026-11-03 18:27:00,34.0015223,128.5412698,169.5,96.6,off_road,0.0,169 m from the road (limit 100 m),noise_offroad
+P02435,D05,2026-11-03 09:33:10+00:00,2026-11-03 18:33:10,34.0108346,128.5312341,117.5,84.8,off_road,447.0,117 m from the road (limit 100 m),noise_offroad
+P02497,D05,2026-11-03 09:43:20+00:00,2026-11-03 18:43:20,34.0074866,128.5360449,166.6,123.0,off_road,672.7,167 m from the road (limit 100 m),noise_offroad
+P02527,D05,2026-11-03 09:48:30+00:00,2026-11-03 18:48:30,34.0089831,128.5323501,0.0,366.2,speed,1011.0,implies 366 km/h from the last good ping (limit 150),noise_speed
+P02571,D05,2026-11-03 09:55:20+00:00,2026-11-03 18:55:20,34.0080968,128.5325068,0.0,321.8,speed,766.0,implies 322 km/h from the last good ping (limit 150),noise_speed
+P02621,D05,2026-11-03 10:03:40+00:00,2026-11-03 19:03:40,34.0228027,128.5269297,461.6,208.3,off_road+speed,1099.9,462 m from the road (limit 100 m); implies 208 km/h from the last good ping (limit 150),noise_offroad
+P02629,D05,2026-11-03 10:05:00+00:00,2026-11-03 19:05:00,34.0262558,128.5216712,0.0,357.6,speed,0.0,implies 358 km/h from the last good ping (limit 150),noise_speed
+P02636,D05,2026-11-03 10:06:10+00:00,2026-11-03 19:06:10,34.0288764,128.5197089,214.5,143.9,off_road,0.0,215 m from the road (limit 100 m),noise_offroad
+P03833,D05,2026-11-04 09:20:50+00:00,2026-11-04 18:20:50,34.0128141,128.5325068,0.0,205.3,speed,1290.0,implies 205 km/h from the last good ping (limit 150),noise_speed
+P03890,D05,2026-11-04 09:30:00+00:00,2026-11-04 18:30:00,34.0269493,128.5160873,0.0,328.2,speed,911.8,implies 328 km/h from the last good ping (limit 150),noise_speed
+P03898,D05,2026-11-04 09:31:30+00:00,2026-11-04 18:31:30,34.0129523,128.5216712,0.0,204.0,speed,1123.3,implies 204 km/h from the last good ping (limit 150),noise_speed
+P03911,D05,2026-11-04 09:33:40+00:00,2026-11-04 18:33:40,34.0248279,128.5108356,0.0,368.8,speed,1024.4,implies 369 km/h from the last good ping (limit 150),noise_speed
+P03926,D05,2026-11-04 09:36:10+00:00,2026-11-04 18:36:10,34.0251422,128.5352713,201.2,116.3,off_road,0.0,201 m from the road (limit 100 m),noise_offroad
+P04006,D05,2026-11-04 09:49:20+00:00,2026-11-04 18:49:20,34.0215715,128.5044188,401.3,147.8,off_road,0.0,401 m from the road (limit 100 m),noise_offroad
+P04014,D05,2026-11-04 09:50:40+00:00,2026-11-04 18:50:40,34.0179662,128.5158772,0.0,172.1,speed,1010.6,implies 172 km/h from the last good ping (limit 150),noise_speed
+P04082,D05,2026-11-04 10:01:30+00:00,2026-11-04 19:01:30,34.0089831,128.5041514,0.0,370.2,speed,0.0,implies 370 km/h from the last good ping (limit 150),noise_speed
+P04124,D05,2026-11-04 10:08:10+00:00,2026-11-04 19:08:10,34.0179662,128.5336176,0.0,404.1,speed,2249.6,implies 404 km/h from the last good ping (limit 150),noise_speed

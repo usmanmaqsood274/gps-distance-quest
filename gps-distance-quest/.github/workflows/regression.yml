@@ -1,0 +1,15 @@
+name: distance-regression
+on: [push, pull_request]
+jobs:
+  noise-regression:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      # The fixed calculation must keep passing; a change that re-introduces noise km fails the build.
+      - run: python -m pytest -q --impl=v1
+      # The QA tool must report zero noise km on the shipped calculation.
+      - run: python -m qa.noise_check --calc v1
